@@ -20,3 +20,6 @@ export BUNDLER_EDITOR=emacs
 
 # bundle exec shortcut
 alias be="bundle exec"
+
+# Node
+export PATH=$PATH:./node_modules/.bin
